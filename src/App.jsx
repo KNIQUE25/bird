@@ -1,6 +1,6 @@
 import React from 'react';
 import BirthdayCard from './Component/BirthdayCard';
-import './App.css';
+import './Component/index.css';
 
 function App() {
   return (
